@@ -73,7 +73,7 @@ When running the program, the system will display the current state of the traff
 
 If an ambulance is detected on a road, the output will immediately reflect the change in the traffic light for that road:
 
-<span style="color:red">Ambulance detected on Road 4! Road 4 light turns GREEN.</span>
+Ambulance detected on Road 4! Road 4 light turns GREEN
 
 
 If an ambulance is detected on a road, the output will immediately reflect the change in the traffic light for that road:
