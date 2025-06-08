@@ -41,7 +41,7 @@ void control_traffic(int roads[NUM_ROADS][NUM_TIME_SLOTS], int time_slots) {
         }
 
         fflush(stdout);  
-        sleep(1);  /
+        sleep(1);  
     }
     printf("\n"); 
 }
